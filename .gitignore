@@ -218,3 +218,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Chess project - training data
+*.pgn
+*.pgn.zst
+chess_dataset/
+*.csv
+
+# Trained model checkpoints
+# Uncomment if you don't want to upload model weights
+# *.json
+
+# Training outputs
+*.log
+training_output/
+checkpoints/
+
+# VS Code
+.vscode/
+
+# Local project files
+.DS_Store
+Thumbs.db
