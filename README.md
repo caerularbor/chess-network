@@ -62,7 +62,7 @@ The output layer supports both standard moves and pawn promotions.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chess-network.git
+git clone https://github.com/caerularbor/chess-network.git
 cd chess-network
 ```
 
@@ -74,6 +74,4 @@ pip install numpy python-chess
 
 Further instructions for obtaining the dataset, configuring training, and running the model will be added as the project develops.
 
-## Disclaimer
 
-This project is an experimental machine learning implementation, not a replacement for traditional chess engines. Its primary objective is to model human move selection rather than calculate optimal chess play.
