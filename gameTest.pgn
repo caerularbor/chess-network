@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.11.10"]
+[Round "?"]
+[White "Hi_MePrince"]
+[Black "luckiiiday"]
+[Result "1/2-1/2"]
+[WhiteElo "248"]
+[BlackElo "612"]
+[ECO "A02"]
+[Termination "Game drawn by stalemate"]
+[TimeControl "600"]
+[EndTime "3:19:06 GMT+0000"]
+[Link "https://www.chess.com/analysis/collection/dumb-stuff-LU6FPpDC/2jfp81g7Je/analysis?move=120"]
+
+1. f4 Nf6 2. g3 g6 3. Nf3 Bg7 4. Ng5 O-O 5. d3 Bh6 $6 6. e4 Bxg5 $6 7. fxg5 Ng4 $4
+8. Qxg4 $1 f5 9. Qf4 d6 10. e5 dxe5 11. Qxe5 Nc6 12. Qc3 e5 13. Qc4+ Rf7 14. Nc3 $2
+Be6 $9 15. Qxe6 $1 Qxg5 $2 16. Bxg5 e4 17. dxe4 fxe4 $9 18. Nxe4 Kg7 $6 19. Bf6+ Kf8 $2
+20. Qf5 $9 gxf5 21. Ng5 Rxf6 22. Nxh7+ Kf7 23. Nxf6 Kxf6 24. O-O-O Rd8 25. Rxd8
+Nxd8 26. h3 Ke5 27. h4 Ne6 28. h5 Kf6 29. h6 Kg6 $6 30. h7 Kg5 $6 31. h8=Q Kg6 32.
+Qg8+ Kf6 33. Rh6+ Ke5 34. Rxe6+ Kd5 35. Re7+ Kc5 36. Rxc7+ Kb6 37. Rxb7+ $9 Kxb7
+38. Qg7+ Kb6 39. g4 f4 40. Qf7 a5 41. Qxf4 Kc5 42. g5 Kd5 43. g6 Kc5 44. g7 Kb6
+45. g8=Q Ka7 46. Qg7+ Kb6 47. c3 $9 Kc5 48. Qf2+ Kc6 49. c4 Kd6 50. Qfg3+ $9 Kc5
+51. Q7g4 Kb4 52. c5+ $9 Kxc5 53. Qc3+ Kb6 54. Qg6+ Ka7 55. Qxa5+ Kb7 56. b3 Kb8
+57. b4 Kb7 58. b5 Kb8 59. b6 Kb7 60. Qg7+ Kb8 61. b7 $9 1/2-1/2
